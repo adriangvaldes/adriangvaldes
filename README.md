@@ -1,5 +1,5 @@
 ### Hello! 👋
 
-- 🌱 I’m currently learning JS, TS, CSS, REACT, Next.js ...
+- 🌱 I’m currently learning Go, PostgreSQL...
 - 📫 How to reach me: adriangvaldes@gmail.com
 
